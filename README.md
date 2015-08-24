@@ -17,7 +17,7 @@ Endpoint Apps
 
 Middleware
 -------------------------------------------------------------------------------
-  The app will read information from webservices which will serve as basically middleware for the app which will be responsible for processing user requests, and for fulfilling requests from the service.
+  The app will read information from webservices which will serve as basically middleware for the app which will be responsible for processing user requests, and for fulfilling requests from the service.  Web services will also be required to post changes to the content.  Siginificant handling of transactions between the endpoint/application layer to the database/backend infrastructure will be handled by these (rest/soap/wsdl?).
 
 Database/Storage
 -------------------------------------------------------------------------------
